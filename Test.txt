@@ -10,6 +10,8 @@ test create pull request-4-local
 
 test create pull request-5
 
+test-rebase
+
 test-1
 
 test-2
