@@ -17,3 +17,6 @@ test-2
 test-merge local
 
 test-merge remote
+
+
+test-1-commite remote
